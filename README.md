@@ -78,3 +78,19 @@ sudo apt install espeak-ng
 
 espeak-ng "Bogdanoff speaking"
 ```
+
+# Raspberry Pi setup
+
+- Download `sudo apt install rpi-imager`, use it to write Raspian to USB. Click gear icon for more settings:
+  - SSH: `raspberrypi.local`, username `pi`
+  - configure wlan
+- Connect with ssh
+
+```sh
+# Check if connected- takes some time to start
+ping raspberrypi.local
+
+ssh pi@raspberrypi.local
+
+ssh pi@192.168.0.177
+```
