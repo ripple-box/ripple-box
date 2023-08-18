@@ -1,7 +1,7 @@
 {
-  "name": "ripple-code-samples",
+  "name": "ripple-box",
   "version": "1.0.0",
-  "description": "",
+  "description": "IoT device for CBDC payments",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
