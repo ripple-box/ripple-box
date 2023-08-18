@@ -1,6 +1,6 @@
 # Ripple box
 
-An IoT solution for CDBC payments. Ripple box merchants to easily receive payments in CDBC, and be alerted when payments are successful. Simply set up a QR scanner where customers can make payments and then listen to successful payments on the box.
+An IoT solution for CDBC payments. Ripple box allows merchants to easily receive payments in CDBC, and be alerted when payments are successful. Simply set up a QR scanner where customers can make payments and then listen to successful payments on the box.
 
 ## Raspberry Pi setup
 
