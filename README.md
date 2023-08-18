@@ -39,4 +39,5 @@ npm run build
 npm run start:prod
 
 # Make payment and listen to alert
+ts-node examples/6-send-xrp.ts
 ```
